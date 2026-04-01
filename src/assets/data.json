@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Avatar",
+    "year": "2009",
+    "distributor": "20th Century Fox",
+    "amount": "$2,787,965,087",
+    "ranking": 1,
+    "img": {
+      "src": "avatar.jpg",
+      "alt": "Avatar"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Avengers: Infinity War",
+    "year": "2018",
+    "distributor": "Walt Disney Studios Motion Pictures",
+    "amount": "$2,048,359,754",
+    "ranking": 2,
+    "img": {
+      "src": "avengers_infinity_war.jpg",
+      "alt": "Avengers Infinity War"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Titanic",
+    "year": "1997",
+    "distributor": "Paramount Pictures",
+    "amount": "$2,187,463,944",
+    "ranking": 3,
+    "img": {
+      "src": "titanic.jpg",
+      "alt": "Titanic"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Star Wars: The Force Awakens",
+    "year": "2015",
+    "distributor": "Walt Disney Studios Motion Pictures",
+    "amount": "$2,068,223,624",
+    "ranking": 4,
+    "img": {
+      "src": "star_wars_the_force_awakens.jpg",
+      "alt": "Star Wars The Force Awakens"
+    }
+  },
+  {
+    "id": 5,
+    "title": "Jurassic World",
+    "year": "2015",
+    "distributor": "Universal Pictures",
+    "amount": "$1,671,713,208",
+    "ranking": 5,
+    "img": {
+      "src": "jurassic_world.jpg",
+      "alt": "Jurassic World"
+    }
+  }
+]

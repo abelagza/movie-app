@@ -1,0 +1,75 @@
+{
+  "window.commandCenter": true,
+  "workbench.colorTheme": "Cursor Dark",
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDelete": false,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": "active",
+
+  "editor.tokenColorCustomizations": {
+    "[Cursor Dark]": {
+      "textMateRules": [
+        {
+          "scope": "keyword",
+          "settings": { "foreground": "#FF4D5A" }
+        },
+        {
+          "scope": "string",
+          "settings": { "foreground": "#37D3C7" }
+        },
+        {
+          "scope": "variable",
+          "settings": { "foreground": "#9B6BFF" }
+        },
+        {
+          "scope": "entity.name.function",
+          "settings": { "foreground": "#FFA200" }
+        },
+        {
+          "scope": "entity.name.tag",
+          "settings": { "foreground": "#A6FF3B" }
+        },
+        {
+          "scope": "entity.name.type",
+          "settings": { "foreground": "#F14DAA" }
+        },
+        {
+          "scope": "constant.numeric",
+          "settings": { "foreground": "#FFD21F" }
+        },
+        {
+          "scope": "support.class",
+          "settings": { "foreground": "#28C7D9" }
+        },
+        {
+          "scope": "comment",
+          "settings": {
+            "foreground": "#8FA3A6",
+            "fontStyle": "italic"
+          }
+        }
+      ]
+    }
+  },
+
+  "editor.semanticTokenColorCustomizations": {
+    "[Cursor Dark]": {
+      "enabled": true,
+      "rules": {
+        "variable": "#9B6BFF",
+        "parameter": "#F14DAA",
+        "property": "#FFA200",
+        "function": "#37D3C7",
+        "class": "#A6FF3B",
+        "type": "#A6FF3B"
+      }
+    }
+  },
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "titleBar.activeBackground": "#ffc0cb",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#ffc0cb99",
+    "titleBar.inactiveForeground": "#15202b99"
+  }
+}
